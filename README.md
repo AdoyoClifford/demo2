@@ -2,3 +2,7 @@
 
 some text
 Another added text
+
+#Local development
+
+open local index.html in your browser
